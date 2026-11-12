@@ -14,3 +14,5 @@ Landing page del proyecto académico del equipo **Los tejemanejes** (Antonio Tor
 La página estática utiliza HTML, CSS y JavaScript, sin proceso de compilación. El menú móvil funciona sin dependencias; las fuentes DM Sans y Manrope se cargan desde Google Fonts y usan Arial como alternativa.
 
 > CosturIA es una idea en desarrollo presentada como proyecto académico. Las funcionalidades descritas son la propuesta del equipo, no servicios ya disponibles.
+>
+> **[Ver Landing Page de CosturIA en vivo](https://vpj-antonioTM.github.io/CosturIA/)**
